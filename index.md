@@ -1,6 +1,6 @@
 ## CEV Mobile
 
-Bem-vindo, este guia vai te ajudar a entender o aplicativo [Cev Mobile](https://play.google.com/store/apps/details?id=itmil.mil_mobile) desenvolvido pela MIL.
+Bem-vindo, este guia vai te ajudar a entender o aplicativo [Cev Mobile](https://play.google.com/store/apps/details?id=itmil.mil_mobile) by MIL.
 
 O app Cev Mobile by MIL foi idealizado para que seus usuários possam realizar as principais operações do CEV Protheus Totvs diretamente em seus smartfones ou tablets android. Como ele vai operar off-line, sua utilização viabiliza o trabalho em ambientes sem infraestrutura de conexão com internet, muito comum na realidade do agronegócio.
 
@@ -59,11 +59,11 @@ Para mapear uma loja ou fazenda de um cliente, acesse a opção `Clientes` no me
 
 <img src="images/botao_checkin.png">
 
-**TAMBÉM É POSSÍVEL MAPEAR O CLIENTE PELA TELA DE OPORTUNIDADES BOTÃO CHECKIN NO MENU SUPERIOR.**
+**TAMBÉM É POSSÝVEL MAPEAR O CLIENTE PELA TELA DE OPORTUNIDADES BOTÃO CHECKIN NO MENU SUPERIOR.**
 
 ### Sincronização
 
-Observe que no menu `Sincronizar` existem dois botões, `SINCRONIZAR e RÁPIDA`. A diferença das duas consiste na quantidade de dados que serão recebidos e enviados entre o dispositivo e o servidor da empresa, por meio do webservice de integração.
+Observe que no menu `Sincronizar` existem dois botões, `SINCRONIZAR e RÝPIDA`. A diferença das duas consiste na quantidade de dados que serão recebidos e enviados entre o dispositivo e o servidor da empresa, por meio do webservice de integração.
 
 A sincronização completa busca todos os dados para trabalho com o smartfone ou tablet e pode ser um pouco mais lenta por trafegar todos os clientes, modelos, oportunidades.
 
