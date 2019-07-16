@@ -2,71 +2,71 @@
 
 Bem-vindo, este guia vai te ajudar a entender o aplicativo [Cev Mobile](https://play.google.com/store/apps/details?id=itmil.mil_mobile) by MIL.
 
-O app Cev Mobile by MIL foi idealizado para que seus usuários possam realizar as principais operações do CEV Protheus Totvs diretamente em seus smartfones ou tablets android. Como ele vai operar off-line, sua utilização viabiliza o trabalho em ambientes sem infraestrutura de conexão com internet, muito comum na realidade do agronegócio.
+O app Cev Mobile by MIL foi idealizado para que seus usuÃ¡rios possam realizar as principais operaÃ§Ãµes do CEV Protheus Totvs diretamente em seus smartfones ou tablets android. Como ele vai operar off-line, sua utilizaÃ§Ã£o viabiliza o trabalho em ambientes sem infraestrutura de conexÃ£o com internet, muito comum na realidade do agronegÃ³cio.
 
-Para sua utilização basta que o usuário tenha em mãos o endereço do webservice de integração com protheus e o entendimento geral de sua utilização
+Para sua utilizaÃ§Ã£o basta que o usuÃ¡rio tenha em mÃ£os o endereÃ§o do webservice de integraÃ§Ã£o com protheus e o entendimento geral de sua utilizaÃ§Ã£o
 
-### Início
+### InÃ­cio
 
-A opção `Sincronizar`, deverá ser utilizada para carregar o dispositivo com a programação de trabalho definida para o usuário e também, descarregar no servidor da empresa, o trabalho já realizado pelo usuário em campo.
+A opÃ§Ã£o `Sincronizar`, deverÃ¡ ser utilizada para carregar o dispositivo com a programaÃ§Ã£o de trabalho definida para o usuÃ¡rio e tambÃ©m, descarregar no servidor da empresa, o trabalho jÃ¡ realizado pelo usuÃ¡rio em campo.
 
 ### Agendas
 
-A `Agenda` é a entidade que representa um contato com o cliente, nela o usuário deverá registrar as ocorrências relatadas pelos clientes contatados. Esses registros ficarão à disposição de todos os usuários envolvidos no processo e que tenham alçada para tal. Quanto maior a riqueza e a qualidade das informações digitadas, melhor será o relacionamento da empresa com o seu cliente.
+A `Agenda` Ã© a entidade que representa um contato com o cliente, nela o usuÃ¡rio deverÃ¡ registrar as ocorrÃªncias relatadas pelos clientes contatados. Esses registros ficarÃ£o Ã  disposiÃ§Ã£o de todos os usuÃ¡rios envolvidos no processo e que tenham alÃ§ada para tal. Quanto maior a riqueza e a qualidade das informaÃ§Ãµes digitadas, melhor serÃ¡ o relacionamento da empresa com o seu cliente.
 
-Para registrar uma agenda acesse a opção `Agendas` no menu. A tela a seguir será apresentada.
+Para registrar uma agenda acesse a opÃ§Ã£o `Agendas` no menu. A tela a seguir serÃ¡ apresentada.
 
 <img src="images/dashboard_agendas.png" alt="dashboard agendas" width="250"/>
 
-Aqui você poderá selecionar as agendas da `Semana, do Dia ou Todas`. As agendas também poderão ser selecionadas utilizando o botão de filtro. Ou se preferir, o usuário poderá incluir uma nova agenda clicando no `+`.
+Aqui vocÃª poderÃ¡ selecionar as agendas da `Semana, do Dia ou Todas`. As agendas tambÃ©m poderÃ£o ser selecionadas utilizando o botÃ£o de filtro. Ou se preferir, o usuÃ¡rio poderÃ¡ incluir uma nova agenda clicando no `+`.
 
-Ao clicar no `+` você terá acesso a tela a seguir e deverá preenche-la com as informações necessárias.
+Ao clicar no `+` vocÃª terÃ¡ acesso a tela a seguir e deverÃ¡ preenche-la com as informaÃ§Ãµes necessÃ¡rias.
 
-<img src="images/agenda.png" alt="formulário de cadastro de agendas" width="250"/>
+<img src="images/agenda.png" alt="formulÃ¡rio de cadastro de agendas" width="250"/>
 
 
 ### Oportunidades
 
-Por meio da opção `Oportunidades`, poderão ser digitados os registros de intenção de compra de máquinas ou equipamentos. As oportunidades ajudarão a organizar e controlar as negociações com os clientes, até sua venda efetiva.
+Por meio da opÃ§Ã£o `Oportunidades`, poderÃ£o ser digitados os registros de intenÃ§Ã£o de compra de mÃ¡quinas ou equipamentos. As oportunidades ajudarÃ£o a organizar e controlar as negociaÃ§Ãµes com os clientes, atÃ© sua venda efetiva.
 
-Para registrar uma oportunidade, acesse a opção `Oportunidades` no Menu. A tela a seguir será apresentada.
+Para registrar uma oportunidade, acesse a opÃ§Ã£o `Oportunidades` no Menu. A tela a seguir serÃ¡ apresentada.
 
 <img src="images/dashboard_oportunidades.png" alt="dashboard de oportunidades" width="250">
 
-No menu superior verá um checkbox que filtra os clientes entre os que possuem oportunidades e os que não possuem. No ícone de `+` você poderá criar um prospect com os dados digitados nos campos `Nome, Documento e Telefone` e adicionar uma oportunidade ao mesmo.
+No menu superior verÃ¡ um checkbox que filtra os clientes entre os que possuem oportunidades e os que nÃ£o possuem. No Ã­cone de `+` vocÃª poderÃ¡ criar um prospect com os dados digitados nos campos `Nome, Documento e Telefone` e adicionar uma oportunidade ao mesmo.
 
-Escolhendo um cliente ou criando um prospect o formulário de oportunidades será apresentado, nele você vai poder cadastrar sua oportunidade de negócio.
+Escolhendo um cliente ou criando um prospect o formulÃ¡rio de oportunidades serÃ¡ apresentado, nele vocÃª vai poder cadastrar sua oportunidade de negÃ³cio.
 
-<img src="images/interesse_2.png" alt="formulário de interesse 2" width="250">
+<img src="images/interesse_2.png" alt="formulÃ¡rio de interesse 2" width="250">
 
-<img src="images/interesse.png" alt="formulário de interesse 1" width="250">
+<img src="images/interesse.png" alt="formulÃ¡rio de interesse 1" width="250">
 
 Lembrando que uma oportunidade pode conter mais de 1 interesse.
 
 ### Raic
 
-Por meio da opção `Raics` poderão ser realizados os registros de satisfação ou insatisfação dos seus clientes. Acesse a opção `RAIC` no menu para registrar uma satisfação ou insatisfação do seu cliente.
+Por meio da opÃ§Ã£o `Raics` poderÃ£o ser realizados os registros de satisfaÃ§Ã£o ou insatisfaÃ§Ã£o dos seus clientes. Acesse a opÃ§Ã£o `RAIC` no menu para registrar uma satisfaÃ§Ã£o ou insatisfaÃ§Ã£o do seu cliente.
 
-**PARA PROSPECTS NÃO PODERÃO SER REGISTRADOS REGISTROS DE RAICS**
+**PARA PROSPECTS NÃƒO PODERÃƒO SER REGISTRADOS REGISTROS DE RAICS**
 
 ### Mapeamento GPS de Clientes
 
-Em alguns pontos estratégicos o usuário terá acesso a botões e ícones que possibilitarão realizar o mapeamento GPS, gravando ou alterando as coordenadas geográficas, latitude e longitude em seu cadastrou.
+Em alguns pontos estratÃ©gicos o usuÃ¡rio terÃ¡ acesso a botÃµes e Ã­cones que possibilitarÃ£o realizar o mapeamento GPS, gravando ou alterando as coordenadas geogrÃ¡ficas, latitude e longitude em seu cadastrou.
 
-Caso o ícone <img src="images/sem_gps.png"> seja apresentado, significa que o cliente está sem mapeamento de GPS para a loja.
+Caso o Ã­cone <img src="images/sem_gps.png"> seja apresentado, significa que o cliente estÃ¡ sem mapeamento de GPS para a loja.
 
-Para mapear uma loja ou fazenda de um cliente, acesse a opção `Clientes` no menu depois procure o cliente e nos detalhes clique no botão de `check in`. Neste momento as coordenadas serão gravadas no cliente, sendo assim na próxima sincronização o cliente agora será um cliente mapeado.
+Para mapear uma loja ou fazenda de um cliente, acesse a opÃ§Ã£o `Clientes` no menu depois procure o cliente e nos detalhes clique no botÃ£o de `check in`. Neste momento as coordenadas serÃ£o gravadas no cliente, sendo assim na prÃ³xima sincronizaÃ§Ã£o o cliente agora serÃ¡ um cliente mapeado.
 
 <img src="images/botao_checkin.png">
 
-**TAMBÉM É POSSÝVEL MAPEAR O CLIENTE PELA TELA DE OPORTUNIDADES BOTÃO CHECKIN NO MENU SUPERIOR.**
+**TAMBÃ‰M Ã‰ POSSÃ�VEL MAPEAR O CLIENTE PELA TELA DE OPORTUNIDADES BOTÃƒO CHECKIN NO MENU SUPERIOR.**
 
-### Sincronização
+### SincronizaÃ§Ã£o
 
-Observe que no menu `Sincronizar` existem dois botões, `SINCRONIZAR e RÝPIDA`. A diferença das duas consiste na quantidade de dados que serão recebidos e enviados entre o dispositivo e o servidor da empresa, por meio do webservice de integração.
+Observe que no menu `Sincronizar` existem dois botÃµes, `SINCRONIZAR e RÃ�PIDA`. A diferenÃ§a das duas consiste na quantidade de dados que serÃ£o recebidos e enviados entre o dispositivo e o servidor da empresa, por meio do webservice de integraÃ§Ã£o.
 
-A sincronização completa busca todos os dados para trabalho com o smartfone ou tablet e pode ser um pouco mais lenta por trafegar todos os clientes, modelos, oportunidades.
+A sincronizaÃ§Ã£o completa busca todos os dados para trabalho com o smartfone ou tablet e pode ser um pouco mais lenta por trafegar todos os clientes, modelos, oportunidades.
 
-A sincronização rápida somente envia os dados que foram alterados no smartfone ou tablet para o servidor da empresa por meio do webservice de integração. Sendo assim, ela é significativamente mais rápida e recomendada caso o usuário esteja em uma rede mais lenda, como 3G por exemplo.
+A sincronizaÃ§Ã£o rÃ¡pida somente envia os dados que foram alterados no smartfone ou tablet para o servidor da empresa por meio do webservice de integraÃ§Ã£o. Sendo assim, ela Ã© significativamente mais rÃ¡pida e recomendada caso o usuÃ¡rio esteja em uma rede mais lenda, como 3G por exemplo.
 
-Embora seja possível sempre usar a sincronização rápida alguns dados como modelos vendidos que podem ser incluídos, mapeamentos GPS de clientes. Entre outros, precisam ser sincronizados por meio de uma sincronização completa com certa periodicidade.
+Embora seja possÃ­vel sempre usar a sincronizaÃ§Ã£o rÃ¡pida alguns dados como modelos vendidos que podem ser incluÃ­dos, mapeamentos GPS de clientes. Entre outros, precisam ser sincronizados por meio de uma sincronizaÃ§Ã£o completa com certa periodicidade.
